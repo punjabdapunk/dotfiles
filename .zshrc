@@ -120,4 +120,4 @@ alias ll='colorls --group-directories-first --almost-all --long'
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 # bat
-export BAT_STYLE="ansi-dark"
+export BAT_THEME="ansi-dark"
