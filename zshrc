@@ -121,3 +121,6 @@ alias ll='colorls --group-directories-first --almost-all --long'
 
 # bat
 export BAT_THEME="TwoDark"
+
+# Sublime Text cli
+export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
