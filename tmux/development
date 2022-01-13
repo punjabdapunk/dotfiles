@@ -15,7 +15,7 @@ then
   tmux new-window -n console -t development
   tmux send-keys -t development:2 'cd /Volumes/Macintosh\ Data\ SSD/project' C-m
 
-  tmux selct-window -t development:1
-  tmux attach -t development
+  tmux select-window -t development:1
 fi
+
 tmux attach -t development
