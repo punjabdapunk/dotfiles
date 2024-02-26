@@ -1,5 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 export PATH=/usr/local/sbin:$PATH
+# PATH=$PATH:$(ruby -e 'puts Gem.bindir')
+# PATH=$PATH:/usr/local/bin
 
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/shazadrehman/.oh-my-zsh"
